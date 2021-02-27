@@ -1,6 +1,5 @@
 # BDP-Project-Team-6
 
-# BDP-Project-Team-6
 
 **CSEE 5590/490: Big Data Programming**
 
