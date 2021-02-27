@@ -2,11 +2,11 @@
 
 **CSEE 5590/490: Big Data Programming**
 
-**Instructor -  Zeenat Tariq**
+**Instructor : Zeenat Tariq**
 
-**Team Number :- 6**
+**Team Number : 6**
 
-## Project Proposal (Increment 1)
+## 1. Project Proposal (Increment 1):
 
 **Project Title:** International Student Data Analysis using Twitter API 
 
@@ -64,7 +64,7 @@ Due to a set of immigration rules and less availability of jobs/ work authorizat
 
 There isn’t a certain time that the chances of happenings like these because these kind of incidents are seen and experienced by many international students over the period of time. 
 
-## 4. Contribution of Work
+## 4. Contribution of Work:
 
 Since this is the initial phase of the project, the contribution is not clear at this point, but the work will be divided among the team members as follows :- 
 
@@ -76,7 +76,7 @@ Extracting the data related to international students and reaction tweets to the
 
 Exploring the data and BDP tools on how to process the extracted data and filter it using Spark/hadoop or other BDP frameworks to infer highlights and crucial information about the subject. 
 
-## 5. References
+## 5. References:
 
 https://towardsdatascience.com/how-to-build-a-real-time-twitter-analysis-using-big-data-tools-dd2240946e64
 https://medium.com/@jaimezornoza/downloading-data-from-twitter-using-the-streaming-api-3ac6766ba96c
