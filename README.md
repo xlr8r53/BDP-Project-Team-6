@@ -44,7 +44,7 @@ The main features of this project is the twitter data extraction through twitter
 
 **Who are the people or communities in need of help?**
 
-The international students who are studying in the United States Of America.(or overseas)
+The international students who are studying in the United States Of America (or overseas).
 
 **What problem happened to them?**
 
