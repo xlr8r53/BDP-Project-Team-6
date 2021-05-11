@@ -24,6 +24,8 @@ This project focuses on extraction of dataset (Twitter Data) from the Twitter AP
 
 GitHub Link: https://github.com/xlr8r53/BDP-Project-Team-6/wiki/Final-Report-Submission
 
+Video Link: https://umkc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1367520c-3de7-4ecb-825f-ad25001fd55c
+
 ## BACKGROUND
 
 Twitter sentiment analysis is done in different ways before, using panda is the most common way. We will be using different hashtags which are related to international students and events related to international students to get a hold of better results based on those hashtags and more information about what events really took place and different aspects they bring out. Here are some references of projects people have done implementing twitter analysis with big data, we are going to follow some aspects of these projects, but our dataset is new and is extracted only for this project, so we could only find references related to those projects which have totally different dataset and completely different objectives. 
