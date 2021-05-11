@@ -24,6 +24,8 @@ This project focuses on extraction of dataset (Twitter Data) from the Twitter AP
 
 GitHub Link: https://github.com/xlr8r53/BDP-Project-Team-6/wiki/Final-Report-Submission
 
+PPT Link: https://github.com/xlr8r53/BDP-Project-Team-6/blob/fe992332219ce41cb6877a771786d0d9fb77d02e/Final_Presentation.pptx
+
 Video Link: https://umkc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1367520c-3de7-4ecb-825f-ad25001fd55c
 
 ## BACKGROUND
